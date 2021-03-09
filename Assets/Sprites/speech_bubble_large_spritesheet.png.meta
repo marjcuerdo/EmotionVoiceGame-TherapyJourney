@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 42a0368e575404920bdead5a9b38462b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2874235213576446943
+    second: speech_bubble_large_spritesheet_0
+  - first:
+      213: 9205039534927720463
+    second: speech_bubble_large_spritesheet_1
+  - first:
+      213: -4877969955848406883
+    second: speech_bubble_large_spritesheet_2
+  - first:
+      213: 3194420659716626340
+    second: speech_bubble_large_spritesheet_3
+  - first:
+      213: 9138852650223995063
+    second: speech_bubble_large_spritesheet_4
+  - first:
+      213: 1129110800567911659
+    second: speech_bubble_large_spritesheet_5
+  - first:
+      213: -2127337504586215006
+    second: speech_bubble_large_spritesheet_6
+  - first:
+      213: -8569838364581239620
+    second: speech_bubble_large_spritesheet_7
+  - first:
+      213: -7347812066435118712
+    second: speech_bubble_large_spritesheet_8
+  - first:
+      213: 1244070358976328815
+    second: speech_bubble_large_spritesheet_9
+  - first:
+      213: -2808430773507744247
+    second: speech_bubble_large_spritesheet_10
+  - first:
+      213: -7751714592680836968
+    second: speech_bubble_large_spritesheet_11
+  - first:
+      213: -592172621432331270
+    second: speech_bubble_large_spritesheet_12
+  - first:
+      213: 6509109429412052114
+    second: speech_bubble_large_spritesheet_13
+  - first:
+      213: -5471383653189140041
+    second: speech_bubble_large_spritesheet_14
+  - first:
+      213: 7644351065425238769
+    second: speech_bubble_large_spritesheet_15
+  - first:
+      213: 1163053417336552675
+    second: speech_bubble_large_spritesheet_16
+  - first:
+      213: 3989812893186098457
+    second: speech_bubble_large_spritesheet_17
+  - first:
+      213: 5817059734349224620
+    second: speech_bubble_large_spritesheet_18
+  - first:
+      213: -8855260980606891895
+    second: speech_bubble_large_spritesheet_19
+  - first:
+      213: 6350515622212745202
+    second: speech_bubble_large_spritesheet_20
+  - first:
+      213: 5550248974478703801
+    second: speech_bubble_large_spritesheet_21
+  - first:
+      213: -4735955400978386184
+    second: speech_bubble_large_spritesheet_22
+  - first:
+      213: 2268968603518757069
+    second: speech_bubble_large_spritesheet_23
+  - first:
+      213: 3815350971500248139
+    second: speech_bubble_large_spritesheet_24
+  - first:
+      213: 9077743976137815750
+    second: speech_bubble_large_spritesheet_25
+  - first:
+      213: 6390859996658729356
+    second: speech_bubble_large_spritesheet_26
+  - first:
+      213: -7111021443657820758
+    second: speech_bubble_large_spritesheet_27
+  - first:
+      213: -4567684394797817434
+    second: speech_bubble_large_spritesheet_28
+  - first:
+      213: -1387314925727955669
+    second: speech_bubble_large_spritesheet_29
+  - first:
+      213: -8390752300974702771
+    second: speech_bubble_large_spritesheet_30
+  - first:
+      213: -6081466244407955289
+    second: speech_bubble_large_spritesheet_31
+  - first:
+      213: -7899415099420323002
+    second: speech_bubble_large_spritesheet_32
+  - first:
+      213: -2562422575341788814
+    second: speech_bubble_large_spritesheet_33
+  - first:
+      213: 781588657441459566
+    second: speech_bubble_large_spritesheet_34
+  - first:
+      213: -3005933843191130482
+    second: speech_bubble_large_spritesheet_35
+  - first:
+      213: 135625336196768549
+    second: speech_bubble_large_spritesheet_36
+  - first:
+      213: 7452741549652225399
+    second: speech_bubble_large_spritesheet_37
+  - first:
+      213: 7981886633304934168
+    second: speech_bubble_large_spritesheet_38
+  - first:
+      213: -5381697830470950305
+    second: speech_bubble_large_spritesheet_39
+  - first:
+      213: -8196200494027330905
+    second: speech_bubble_large_spritesheet_40
+  - first:
+      213: -6628443684546251383
+    second: speech_bubble_large_spritesheet_41
+  - first:
+      213: 7700589593193458828
+    second: speech_bubble_large_spritesheet_42
+  - first:
+      213: 5457006353601034667
+    second: speech_bubble_large_spritesheet_43
+  - first:
+      213: -4555290071479282205
+    second: speech_bubble_large_spritesheet_44
+  - first:
+      213: 6056808705252276025
+    second: speech_bubble_large_spritesheet_45
+  - first:
+      213: -8073819889142039268
+    second: speech_bubble_large_spritesheet_46
+  - first:
+      213: 5477707636552086798
+    second: speech_bubble_large_spritesheet_47
+  - first:
+      213: 2181826142397840037
+    second: speech_bubble_large_spritesheet_48
+  - first:
+      213: -539203725162297555
+    second: speech_bubble_large_spritesheet_49
+  - first:
+      213: 3596757539524312396
+    second: speech_bubble_large_spritesheet_50
+  - first:
+      213: 4891598952136393236
+    second: speech_bubble_large_spritesheet_51
+  - first:
+      213: -4015239309301386080
+    second: speech_bubble_large_spritesheet_52
+  - first:
+      213: 3969508761123807504
+    second: speech_bubble_large_spritesheet_53
+  - first:
+      213: -8803362313505947095
+    second: speech_bubble_large_spritesheet_54
+  - first:
+      213: -7408282302493228376
+    second: speech_bubble_large_spritesheet_55
+  - first:
+      213: -2894793243671962850
+    second: speech_bubble_large_spritesheet_56
+  - first:
+      213: -2942136003060895199
+    second: speech_bubble_large_spritesheet_57
+  - first:
+      213: 4540732880395226114
+    second: speech_bubble_large_spritesheet_58
+  - first:
+      213: -4138015669611742905
+    second: speech_bubble_large_spritesheet_59
+  - first:
+      213: 3716198873900738827
+    second: speech_bubble_large_spritesheet_60
+  - first:
+      213: -7052437159747525563
+    second: speech_bubble_large_spritesheet_61
+  - first:
+      213: 5263513972725859552
+    second: speech_bubble_large_spritesheet_62
+  - first:
+      213: 6962049579801775036
+    second: speech_bubble_large_spritesheet_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: speech_bubble_large_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3a42ac2b553e720800000000000000
+      internalID: 2874235213576446943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech_bubble_large_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f003bc6cfaedebf70800000000000000
+      internalID: 9205039534927720463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech_bubble_large_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98b0a47b28fd4cb0800000000000000
+      internalID: -4877969955848406883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech_bubble_large_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7149d4aacd45c20800000000000000
+      internalID: 3194420659716626340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
