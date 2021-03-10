@@ -18,16 +18,55 @@ public class EmotionAPI : MonoBehaviour
 
 	public TextMeshProUGUI emoText;
 
+	public string[] emotionRangeArray;
+	public string[] emotionCorrectArray;
+	public Sprite[] emojiArray;
+	/*public Sprite neutralSpr;
+	public Sprite calmSpr;
+	public Sprite happySpr;
+	public Sprite angrySpr;
+	public Sprite fearfulSpr;
+	public Sprite disgustSpr;
+	public Sprite surprisedSpr;*/
+
+	public Image imageObj;
+
+	public int currentIndex = 0;
+
+	public GameObject[] blocks;
+
 	public void Start()
 	{
 		audObj = GetComponent<AudioRec>();
-		//GetEmotion();
+		emotionRangeArray = new string[]{"neutral", "calm", "happy", "sad", "angry", "fearful", "disgust", "surprised"};
+		emotionCorrectArray = new string[]{"surprised","sad","angry","sad","fearful","disgust","sad","happy"};
+		//emotionCorrectArray = new string[]{"sad","sad","sad","sad","sad","disgust","sad","happy"};
+		/*
+		Example statements to help (what you say doesn't matter though): 
+		surprised = "What?! You can't fire me!"
+		sad = "Oh no, I can't believe this is happening..."
+		angry = "Fuck you, you can't do that!"
+		fearful = "What am I gonna do?!" / "I'm never gonna get a job!"
+		neutral = "Whatever I guess."
+		disgust = "Ugh I don't wanna go to therapy."
+		calm = "I feel better now."
+		happy = "This is so much better!"
+		*/
 	}
 
 	public void Update() {
 		if (audObj.recordingNew) {
 			GetEmotion();
+
 			audObj.recordingNew = false;
+		}
+
+		// if the correct emotion is detected, then increment
+		if ( DisplayEmotion(currentEmotion) == emotionCorrectArray[currentIndex]) {
+
+			currentIndex += 1;
+			
+			Debug.Log("Index: " + currentIndex);
 		}
 	}
 
@@ -58,6 +97,14 @@ public class EmotionAPI : MonoBehaviour
 			currentEmotion = req.downloadHandler.text;
 			emoText.text = "Emotion Prediction: " + DisplayEmotion(currentEmotion);
 			Debug.Log(DisplayEmotion(currentEmotion));
+		}
+
+		// display the correct emoji
+			for (int i=0; i<emotionRangeArray.Length; i++) {
+				if (DisplayEmotion(currentEmotion) == emotionRangeArray[i]) {
+					Debug.Log("detecting correct emotion");
+					imageObj.sprite = emojiArray[i];
+				}
 		}
 
 		req.Dispose();

@@ -10,6 +10,7 @@ TagManager:
   - TriggerEnd
   - TriggerWife
   - TriggerTherapy
+  - BossBlock
   layers:
   - Default
   - TransparentFX
