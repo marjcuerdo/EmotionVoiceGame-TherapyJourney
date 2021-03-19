@@ -28,7 +28,7 @@ We used the RAVDESS Dataset [here](https://zenodo.org/record/1188976)
 * Current version must be running while the game is playing in Unity
 
 ## Game: Journey to Therapy* 
-[tentative name]
+*tentative name
 
 * Connected Unity project to Emotion API on Google Colab
 * Github (this repository)
