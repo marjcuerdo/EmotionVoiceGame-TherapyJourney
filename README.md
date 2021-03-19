@@ -2,7 +2,7 @@
 
 ### Marjorie Ann Cuerdo, Rebecca Lietz
 
-We created this system that detects emotion from a player's voice to control events in a game through machine learning methods. This version was a final project for a class -- read our full project write-up [here](https://github.com/marjcuerdo/EmotionVoiceGame-TherapyJourney/blob/main/EmotionalVoiceGameController.ProjectWriteup.pdf) for more details.
+We created this system that detects emotion from a player's voice to control events in a game through machine learning methods. This version was a final project for a class -- read our full project write-up [here](https://github.com/marjcuerdo/EmotionVoiceGame-TherapyJourney/blob/main/EmotionalVoiceGameController.ProjectWriteup.pdf) (note: assignment required writing in conference format, but this isn't an actual CHI paper!) for more details.
 
 ## Pre-Processing Audio Files
 
